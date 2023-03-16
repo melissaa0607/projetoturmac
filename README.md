@@ -1,12 +1,13 @@
-# melissa
+# Melissa
 
 
-# dados pessoais
-cpf: xxxxxxxxxx
-email: xxxxxxxxxx
-telefone: xxxxxxxxxxx
+## Dados pessoais
+CPF: xxxxxxxxxx
+Email: xxxxxxxxxx
+Telefone: xxxxxxxxxxx
 
-## experiencia
+## Experiencia
 
-estudante
-universitário
+    *Ensino Médio completo
+    *Cursando Analise e desenvolvimento de sistemas
+        Termo 1 Turma C
